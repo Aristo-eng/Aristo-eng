@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aristo-eng
-- 👀 I’m interested in Data Sccience and Applied Machine Learning
+- 👀 I’m interested in Data Science and Applied Machine Learning
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on data science based projects
 
