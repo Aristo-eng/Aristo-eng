@@ -1,3 +1,5 @@
+## R. Munezero Mihigo
+
 ### Applied ML & data engineering for climate and development
 
 I build Python data pipelines, validated composite indices and simulation tools that governments use for policy, mostly at the [Global Green Growth Institute (GGGI)](https://ggindex-simtool.gggi.org/publications).
