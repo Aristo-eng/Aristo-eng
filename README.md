@@ -2,7 +2,7 @@
 
 ### Applied ML & data engineering for climate and development
 
-I build Python data pipelines, validated composite indices and simulation tools that governments use for policy, mostly at the [Global Green Growth Institute (GGGI)](https://ggindex-simtool.gggi.org/publications).
+I build Python data pipelines, validated composite indices and simulation tools that turn complex data into decisions, mostly at the [Global Green Growth Institute (GGGI)](https://ggindex-simtool.gggi.org/publications).
 
 - **Green Growth Index:** validation of the global index for 154–157 countries (Random Forest, Monte Carlo, correlation and outlier checks)
 - **AI-GGSim, Lao PDR:** Python sectoral models (water, materials, waste) linked into an online policy simulation tool
